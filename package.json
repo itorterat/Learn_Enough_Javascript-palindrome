@@ -1,6 +1,6 @@
 {
   "name": "itorterat-palindrome",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Palindrome detector",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/itorterat/learn_enough_javascript-palindrome/issues"
   },
-  "homepage": "https://github.com/itorterat/learn_enough_javascript-palindrome#readme"
+  "homepage": "https://github.com/itorterat/learn_enough_javascript-palindrome#readme",
+  "directories": {
+    "test": "test"
+  }
 }
